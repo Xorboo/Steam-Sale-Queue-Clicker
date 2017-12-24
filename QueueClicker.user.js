@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Steam Sale Queue Clicker
-// @namespace    Xorboo
+// @namespace    http://xorboo.com
 // @author       Xorboo
 // @version      0.1.1
 // @description  Simple clicker for getting trading cards during steam sale. Stops after recieving all cards for the day
-// @downloadURL  https://github.com/Xorboo/Steam-Sale-Queue-Clicker/raw/master/QueueClicker.user.js
+// @downloadURL  https://openuserjs.org/src/scripts/Xorboo/Steam_Sale_Queue_Clicker.user.js
 // @updateURL    https://openuserjs.org/meta/Xorboo/Steam_Sale_Queue_Clicker.meta.js
 // @license      MIT
 // @noframes
